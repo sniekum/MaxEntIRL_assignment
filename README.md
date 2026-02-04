@@ -1,4 +1,4 @@
-# Homework 2 for CS 690 Human-Centric Machine Learning
+# Homework 2 for CS 690S AI Alignment
 
 ### Overview
 
